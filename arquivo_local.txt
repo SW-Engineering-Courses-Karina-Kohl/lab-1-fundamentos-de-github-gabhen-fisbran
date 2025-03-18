@@ -1,0 +1,1 @@
+Este é um arquivo local que foi enviado para o GitHub, commitado para a main branch!
