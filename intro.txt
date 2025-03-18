@@ -1,5 +1,5 @@
-Esta é a versão inicial do arquivo. 
-É ele que você vai editar como exercício do Lab
+Esta é a versão editada do arquivo. 
+Ele foi editado como exercício do Lab, e enviado direto para o main!
 
 editing intro.txt
 
