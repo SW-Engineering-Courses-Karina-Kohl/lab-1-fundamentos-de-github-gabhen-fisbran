@@ -1,5 +1,5 @@
-Esta é a versão editada do arquivo. 
-Ele foi editado como exercício do Lab, e enviado direto para o main!
+Esta é outra versão editada do arquivo. 
+Ele foi editado como exercício do Lab, e enviado para uma 'feature-branch'!
 
 editing intro.txt
 
